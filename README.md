@@ -1,3 +1,3 @@
-# MIT-Professional-Education
+# Data Science Projects
 
-A repository for holding code from the MIT Professional Education Applied Data Science program.
+A repository for holding code for data science projects.
